@@ -44,6 +44,7 @@ Spring cloud中最复杂的其实是认证服务，本项目认证服务已经�
     - 通过注册服务http://localhost:8761 即可查看启动的服务
 ![注册服务](https://images.gitee.com/uploads/images/2019/1228/011228_0b1112e9_693977.png "WX20191228-010712@2x.png")
     - 如需要启动监控服务，可以启动monitor服务,访问端口为http://localhost:8001
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 # admin-ui
 ## 描述
